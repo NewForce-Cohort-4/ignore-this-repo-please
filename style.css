@@ -1,0 +1,11 @@
+.over-21-container, .under-21-container {
+    display: flex;
+    align-items: space-between;
+}
+
+.party-guest-card {
+    border: 1px solid gray;
+    padding: 2em;
+    text-align: center;
+    margin: 1em;
+}
